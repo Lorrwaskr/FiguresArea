@@ -1,5 +1,5 @@
 using FiguresArea.Figures;
-using FiguresArea.Figures.Abstract;
+using FiguresArea.Figures.Interfaces;
 
 namespace FiguresArea.Tests;
 

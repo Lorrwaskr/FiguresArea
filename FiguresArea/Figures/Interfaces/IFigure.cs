@@ -1,4 +1,4 @@
-﻿namespace FiguresArea.Figures.Abstract;
+﻿namespace FiguresArea.Figures.Interfaces;
 
 public interface IFigure
 {

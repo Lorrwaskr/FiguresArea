@@ -1,4 +1,4 @@
-﻿using FiguresArea.Figures.Abstract;
+﻿using FiguresArea.Figures.Interfaces;
 
 namespace FiguresArea.Figures;
 
